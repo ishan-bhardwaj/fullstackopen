@@ -1,2 +1,2 @@
-## Course: 
+## Course
 https://fullstackopen.com/
